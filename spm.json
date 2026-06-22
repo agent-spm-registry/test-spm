@@ -1,6 +1,6 @@
 {
   "name": "test-spm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "yest-skill",
   "type": "rules",
   "skillFile": "SKILL.md",
