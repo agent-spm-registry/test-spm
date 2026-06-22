@@ -1,0 +1,12 @@
+{
+  "name": "test-spm",
+  "version": "1.0.0",
+  "description": "yest-skill",
+  "type": "rules",
+  "skillFile": "SKILL.md",
+  "author": "Developer",
+  "license": "MIT",
+  "template": "rules",
+  "skills": {},
+  "keywords": []
+}
